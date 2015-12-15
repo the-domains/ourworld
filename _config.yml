@@ -1,0 +1,28 @@
+name: OurWorld
+favicon: null
+layout_spectrum: 0.14546718099154532
+typography_spectrum: 0.06940230494365096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.13144314824603498
+  lightness: 0.8080176054500043
+  saturation: 0.8749375711195171
+  rhythmicContrast: 0.7061679195612669
+purpose: []
